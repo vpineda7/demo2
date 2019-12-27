@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"14Y0":function(t,e,n){t.exports=n.p+"static/otter-2ac93011db01822e89a9b98bfb94b119.gif"},RXBc:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),i=n.n(a),c=n("14Y0"),o=n.n(c);e.default=function(){return i.a.createElement("div",null,"Hello world! modified  ",i.a.createElement("img",{src:o.a,alt:"Otter dancing with a fish"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ec749790207ed3c80d69.js.map
