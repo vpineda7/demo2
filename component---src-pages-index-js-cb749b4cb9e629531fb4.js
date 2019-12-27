@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"14Y0":function(t,i,n){t.exports=n.p+"static/otter-2ac93011db01822e89a9b98bfb94b119.gif"},RXBc:function(t,i,n){"use strict";n.r(i);n("q1tI"),n("14Y0");i.default=function(){return'<div>Hello world! modified  </div> \n<img src={otterGIF} alt="Otter dancing with a fish" />'}}}]);
+//# sourceMappingURL=component---src-pages-index-js-cb749b4cb9e629531fb4.js.map
