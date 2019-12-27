@@ -1,3 +1,4 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+import otterGIF from '../gifs/otter.gif'
+export default () => <div>Hello world! modified  <img src={otterGIF} alt="Otter dancing with a fish" /></div>
